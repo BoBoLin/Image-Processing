@@ -1,0 +1,9 @@
+D:\研究所\影像處理\hw\img_hw\img_hw\bin\Debug\img_hw.exe.config
+D:\研究所\影像處理\hw\img_hw\img_hw\bin\Debug\img_hw.exe
+D:\研究所\影像處理\hw\img_hw\img_hw\bin\Debug\img_hw.pdb
+D:\研究所\影像處理\hw\img_hw\img_hw\obj\Debug\img_hw.csprojResolveAssemblyReference.cache
+D:\研究所\影像處理\hw\img_hw\img_hw\obj\Debug\img_hw.Form1.resources
+D:\研究所\影像處理\hw\img_hw\img_hw\obj\Debug\img_hw.Properties.Resources.resources
+D:\研究所\影像處理\hw\img_hw\img_hw\obj\Debug\img_hw.csproj.GenerateResource.Cache
+D:\研究所\影像處理\hw\img_hw\img_hw\obj\Debug\img_hw.exe
+D:\研究所\影像處理\hw\img_hw\img_hw\obj\Debug\img_hw.pdb
